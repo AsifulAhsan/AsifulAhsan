@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Asiful_Ahsan
-- 👀 I’m interested in C (and other languages as well..)
+- 👋 Hi, I’m Asiful Ahsan
+- 👀 I’m an enthusiast in C and other languages,
 - 🌱 I’m currently learning flutter;
 - 🎲 Wish me good luck!
 <!---
