@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Asiful_Ahsan
 - 👀 I’m interested in C (and other languages as well..)
-- 🌱 I’m currently learning C;
+- 🌱 I’m currently learning flutter;
 - 🎲 Wish me good luck!
 <!---
 AsifulAhsan/AsifulAhsan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
