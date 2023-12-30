@@ -11,7 +11,7 @@ I'm a passionate programmer with a keen interest in software development. Curren
 
 ## 🌱 I'm Currently Learning
 
-[Flutter]
+*Flutter*
 
 ## 📫 How to Reach Me
 
@@ -28,7 +28,7 @@ Here are some projects I'v done so far:
    - Made with Flutter.
    - Learned most of the basics of flutter.
 
-_I wish learn more in future 🙂_
+_I aim to learn more in future 🙂_
 
 <!---
 AsifulAhsan/AsifulAhsan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
