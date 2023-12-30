@@ -29,7 +29,7 @@ Here are some projects I'v done so far:
    - Made with Flutter.
    - Learned most of the basics of flutter.
 
-_I aim to learn more in future_🙂
+_I aim to learn more in future_ 🙂
 
 <!---
 AsifulAhsan/AsifulAhsan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
