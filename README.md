@@ -15,8 +15,9 @@ I'm a passionate programmer with a keen interest in software development. Curren
 
 ## 📫 How to Reach Me
 
-- https://www.linkedin.com/in/asiful-ahsan-2538b4238/
 - asifulahsan@outlook.com
+- https://www.linkedin.com/in/asiful-ahsan-2538b4238/
+
 
 
 ## 🚀 Projects
