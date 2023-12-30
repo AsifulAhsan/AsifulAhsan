@@ -4,7 +4,7 @@ I'm a passionate programmer with a keen interest in software development. Curren
 
 ## 🔧 Technologies & Tools
 
-- **Languages:** [C, C++ and JS]
+- **Languages:** [C, C++, JS]
 - **Frameworks & Libraries:** [Flutter SDK]
 - **Databases:** [None (as of now)]
 - **Tools:** [Figma for UI/UX designing]
@@ -15,8 +15,8 @@ I'm a passionate programmer with a keen interest in software development. Curren
 
 ## 📫 How to Reach Me
 
-- [https://www.linkedin.com/in/asiful-ahsan-2538b4238/](Your LinkedIn Profile Link)
-- [asifulahsan@outlook.com](Your Email Address)
+- [https://www.linkedin.com/in/asiful-ahsan-2538b4238/]
+- asifulahsan@outlook.com
 
 
 ## 🚀 Projects
