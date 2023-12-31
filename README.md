@@ -1,6 +1,6 @@
 # Hi there, I'm Asiful Ahsan! 👋
 
-I'm a passionate programmer with a keen interest in software development. Currently, I'm a student in a private Uni, Studing B.Sc in CSE.
+I'm a passionate programmer with a keen interest in software development. Currently, I'm a student in a private Uni, Studying B.Sc in CSE.
 
 ## 🔧 Technologies & Tools
 
