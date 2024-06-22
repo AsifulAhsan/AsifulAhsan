@@ -6,7 +6,7 @@ I'm a passionate programmer with a keen interest in software development. Curren
 
 - **Languages:** [C, C++, JS]
 - **Frameworks & Libraries:** [Flutter SDK]
-- **Databases:** [None (as of now)]
+- **Databases:** 
 - **Tools:** [Figma for UI/UX designing]
 
 ## 🌱 I'm Currently Learning
