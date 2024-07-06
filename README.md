@@ -5,7 +5,7 @@ I'm a passionate programmer with a keen interest in software development. Curren
 ## 🔧 Technologies & Tools
 
 - **Languages:** [C, C++, JS]
-- **Frameworks & Libraries:** [Flutter SDK]
+- **Frameworks & Libraries:** [Flutter SDK, Provider]
 - **Databases:** 
 - **Tools:** [Figma for UI/UX designing]
 
