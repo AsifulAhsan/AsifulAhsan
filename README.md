@@ -6,7 +6,7 @@ I'm a passionate programmer with a keen interest in software development. Curren
 
 - **Languages:** [C, C++, Dart, Typescript]
 - **Frameworks & Libraries:** [Flutter SDK, Next.js]
-- **Databases:** [MongoDB Atlas, SQlite, Supabase]
+- **Databases:** [MongoDB Atlas, SQLite, Supabase]
 - **Tools:** [Figma for UI/UX designing]
 
 ## 🌱 I'm Currently Learning
