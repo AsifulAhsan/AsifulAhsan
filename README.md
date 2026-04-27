@@ -1,15 +1,15 @@
-# Hi there, I'm Asiful Ahsan! 👋
+# Hi there, I'm Asiful Ahsan! 🙂
 
 I'm a passionate programmer with a keen interest in software development. Currently, I'm a student in a private Uni, Studying B.Sc in CSE.
 
 ## 🔧 Technologies & Tools
 
-- **Languages:** [C, C++, Dart, Typescript]
-- **Frameworks & Libraries:** [Flutter SDK, Next.js]
-- **Databases:** [MongoDB Atlas, SQLite, Supabase]
-- **Tools:** [Figma for UI/UX designing]
+- **Languages:** [C++,Typescript,Go]
+- **Frameworks & Libraries:** [Next.js, Flutter SDK]
+- **Databases:** [MongoDB Atlas, PostgreSQL]
+- **Tools:** [Figma]
 
-## 🌱 I'm Currently Learning
+## I'm Currently Learning
 
 *Flutter*, and *Next.js*
 
@@ -19,23 +19,8 @@ I'm a passionate programmer with a keen interest in software development. Curren
 - https://www.linkedin.com/in/asiful-ahsan-2538b4238/
 
 
-
 ## 🚀 Projects
-
-Here are some projects I'v done so far:
-
-1. [Contact Book](https://github.com/AsifulAhsan/FlutterContactApp)
-   - A Flutter app for managing contacts with CRUD functionality..
-   - Made with Flutter.
-   - Learned most of the basics of flutter.
-2. [Notes](https://github.com/AsifulAhsan/notes)
-   - A Simple note taking app with CRUD functionalities.
-   - Made with Flutter and SQFlite Database.
-   - Learned basics of database operations.
-3. [Weather App](https://github.com/AsifulAhsan/weather_v0)
-   - A Flutter app basic weather information.
-   - Made with Flutter and OpenWeatherMap API.
-   - Learned basics of API integrations.
+_Will be added soon :)_
 
 _I am always eager to learn more_ 🙂
 
